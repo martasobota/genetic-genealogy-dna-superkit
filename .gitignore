@@ -1,3 +1,4 @@
 *.csv
 *.txt
+.ipynb_checkpoints/
 DNA_raw/
